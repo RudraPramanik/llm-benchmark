@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-stable-baselines3
-gymnasium
-pandas
-numpy
-matplotlib
-seaborn
